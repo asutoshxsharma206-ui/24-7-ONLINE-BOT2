@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "blackmoonsmp11.minefort.com",
-    "port": 25565,
+    "ip": "BLACKMOONSMP01.aternos.me",
+    "port": 37957,
     "version": "1.20.1",
     "try-creative": false
   },
